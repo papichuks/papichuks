@@ -1,7 +1,11 @@
-### Hi there 👋
+### hi there 👋
 
+  nice to meet you!
+i am chuks. I write javascript, and python.
+you can reach me [on x](https://x.com/papiichuks) and [on linkedin](https://linkedin.com/in/chukwuka-okorie-david)
 <!--
 **papichuks/papichuks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**![](https://komarev.com/ghpvc/?username=papichuks)
 
 Here are some ideas to get you started:
 
