@@ -2,7 +2,7 @@
 
 nice to meet you??
 
-i am chuks. i wanna write javascript and python.
+chuks. javascript....python.
 
 you can reach me [on x](https://x.com/papiichuks) and [on linkedin](https://linkedin.com/in/chukwuka-okorie-david)
 <!--
